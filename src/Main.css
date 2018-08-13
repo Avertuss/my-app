@@ -1,0 +1,106 @@
+td{
+    padding: 10px;
+    width: 250px;
+    color:#FFFFFF;
+}
+.tableBody
+{
+    overflow: scroll;
+    width: 3000px;
+}
+.timeBlock
+{
+    border-radius: 4px;
+    background: #323133;
+}
+.mainTable {
+   background: #242424;
+}
+.reserv
+{
+    background: #242424;
+    border-radius: 2px;
+    
+
+}
+.flag
+{
+    background: #E8CE4D;
+    border: 2px solid #E8CE4D;
+    border-radius: 100px;
+    height: 5px;
+    width: 5px;
+    display: inline-block;
+    margin-right: 10px;
+}
+.numTable{
+    opacity: 0.8;
+    font-family: ProximaNova-Bold;
+    font-size: 29px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+
+    text-align: right;
+    position: relative;
+    top: -105px;
+}
+.textRotate
+{
+    transform: rotate(-90deg);
+    font-family: ProximaNova-Semibold;
+    font-size: 13px;
+    color: #808080;
+    text-align: right;
+    line-height: 13px;
+    white-space: nowrap;
+    position: relative;
+    top: -70px;
+    right: -35px;
+}
+.borderTable{
+   
+background: #292929;
+}
+.dateHead{
+    opacity:1;
+    font-family: ProximaNova-Semibold;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+.timePanel
+{
+    width: 62px;
+    height: 49px;
+    padding-left: 16px;
+    font-family: HelveticaNeue,Helvetica,Arial,sans-serif;
+    font-size: 40px;
+    
+    color: #C1C1C2 ;
+    letter-spacing: 1px;
+}
+.yellow
+{
+    color: #E8CE4D;
+}
+.time
+{
+    text-align: center;
+    display: inline-block;
+    margin-left: 4px;
+    width:  62px;
+    height: 30px;
+    line-height: 30px;
+  text-align: center;
+    font-family: HelveticaNeue,Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    color: #989A9C;
+    cursor: pointer;
+    
+    letter-spacing: 1px;
+}
+.rowTime{
+    width: 140px;
+    height: 30px;
+    padding: 2px;
+
+}
